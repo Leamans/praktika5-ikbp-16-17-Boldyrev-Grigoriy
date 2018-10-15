@@ -1,4 +1,4 @@
-# praktika5-ikbp-16-17-Boldyrev-Grigoriy
+# praktika5-ikbo-16-17-Boldyrev-Grigoriy
 
 # Вариант 1
 
